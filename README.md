@@ -1,3 +1,3 @@
 # kruthidemo
-This is my Github Repository
+This is my Github Repository.
 Author-Kruthika B N
