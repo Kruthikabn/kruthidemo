@@ -1,3 +1,3 @@
 # kruthidemo
-This is matlab project
+This is my Github Repository
 Author-Kruthika B N
